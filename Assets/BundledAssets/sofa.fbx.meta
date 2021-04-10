@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4b4a36e88f2ac475fb7ace943b0f55a6
+guid: 420422e184e0641c1964b71429ae3390
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -93,5 +93,5 @@ ModelImporter:
   avatarSetup: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
+  assetBundleName: sofa
   assetBundleVariant: 

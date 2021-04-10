@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e88a96946e31741e88ff79a2a511b42b
+guid: 44c1aa936498d416fae2a1cafb03948c
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -93,5 +93,5 @@ ModelImporter:
   avatarSetup: 0
   additionalBone: 0
   userData: 
-  assetBundleName: 
+  assetBundleName: plant
   assetBundleVariant: 

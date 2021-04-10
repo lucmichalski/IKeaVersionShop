@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1367875947
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bedsidetable
+      Dependencies: {}
+    Info_1:
+      Name: chair
+      Dependencies: {}
+    Info_2:
+      Name: furniture
+      Dependencies: {}
+    Info_3:
+      Name: plant
+      Dependencies: {}
+    Info_4:
+      Name: sofa
+      Dependencies: {}
