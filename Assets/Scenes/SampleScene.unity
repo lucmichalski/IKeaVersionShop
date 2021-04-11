@@ -694,7 +694,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   assetName: chair1
   bundleName: Chair
-  asset: {fileID: 1869025911}
+  obj: {fileID: 1869025911}
+  parentObj: {fileID: 1484609842}
 --- !u!4 &1869025913
 Transform:
   m_ObjectHideFlags: 0

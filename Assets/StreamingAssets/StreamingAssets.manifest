@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1367875947
+CRC: 3414087239
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -17,3 +17,7 @@ AssetBundleManifest:
     Info_4:
       Name: sofa
       Dependencies: {}
+    Info_5:
+      Name: tablewood
+      Dependencies:
+        Dependency_0: bedsidetable
