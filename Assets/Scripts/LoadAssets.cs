@@ -8,7 +8,7 @@ public class LoadAssets : MonoBehaviour
 {
     public string assetName = "chair1";
     public string bundleName = "chair";
-    public GameObject asset;
+    public GameObject obj;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,8 +18,9 @@ public class LoadAssets : MonoBehaviour
             Debug.LogError("Failed to load AssetBundle!");
             return;
         }
-        asset = localAssetBundle.LoadAsset<GameObject>(assetName);
-        Instantiate(asset);
+        GameObject asset = localAssetBundle.LoadAsset<GameObject>(assetName);
+        obj = Instantiate(asset) as GameObject;
+        obj.transform.localScale += new Vector3(10F, 0, 0);
         localAssetBundle.Unload(false);
         //string url = "http://filmbuzzer.com/AssetBundles/Chair";
      //   WWW www = new WWW(url);
