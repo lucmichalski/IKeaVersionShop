@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: a6aefe6970ed54c97923206c4f0e0f7a
+  m_CachedHash:
+    m_u32_0: 0
+    m_u32_1: 0
+    m_u32_2: 0
+    m_u32_3: 0
+  m_IsTemporary: 0
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 0
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 075ea9f2cbdb141c7931a9913497b798, type: 2}
+  - {fileID: 11400000, guid: 9255ee7937dbe4bf997a6f472b98fa22, type: 2}
+  - {fileID: 11400000, guid: e0b09460cb9dc416f828a8815740c0ed, type: 2}
+  - {fileID: 11400000, guid: 45a929f47ae614d09afdd10b5f1362f1, type: 2}
+  - {fileID: 11400000, guid: 903e08848f7434750b0434215cda06c0, type: 2}
+  - {fileID: 11400000, guid: c3922cdad8f3c4170a72822a2acad1b5, type: 2}
+  - {fileID: 11400000, guid: e721a7f240a0342928edf43a7137462c, type: 2}
+  - {fileID: 11400000, guid: 05a03f24012634bc6a5660803a9ad687, type: 2}
+  - {fileID: 11400000, guid: 3401fb481a68342c18d5fb17db82d1e7, type: 2}
+  - {fileID: 11400000, guid: b54e408d69cb4450485d2c56f8d1ead9, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 7c71c289dd67e43beba6f2025cf1f4a7
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: cb3ad4600831a431ba247bfab5aca12c
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 33b933184df1e4f5894021f74375d5d9
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: e123c55f9cf27431d83e16605b19d80c
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: be2ff4817919d4240bc35a8b4a30ac7e
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 6b2a55e04fb7b49dfb9553dabc4ab247
+        m_Value: http://localhost/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: cb3ad4600831a431ba247bfab5aca12c
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 33b933184df1e4f5894021f74375d5d9
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: e123c55f9cf27431d83e16605b19d80c
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: be2ff4817919d4240bc35a8b4a30ac7e
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 6b2a55e04fb7b49dfb9553dabc4ab247
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 10922a01ba5174aa19eca3783929d3cc, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+    <ValueChanged>k__BackingField: 0
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 9b64d0b60dc6f476d912a89065e5e2cd, type: 2}
+  - {fileID: 11400000, guid: 96491e1ee9b674549878f753e1c9d7e0, type: 2}
+  - {fileID: 11400000, guid: 098dfce9d961a4604868e5cf32d35cdb, type: 2}
+  - {fileID: 11400000, guid: 3810382a401aa4e66bd4aa9fe1fc4c8b, type: 2}
+  m_ActiveProfileId: 7c71c289dd67e43beba6f2025cf1f4a7
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
+  m_DefaultGroupTemplateName: Packed Assets

@@ -60,8 +60,21 @@ public class LoadAssets : MonoBehaviour
             if (obj != null)
             {
                 Destroy(obj);
-                AssetBundle localAssetBundle = AssetBundle.LoadFromFile(Path.Combine(Application.streamingAssetsPath, "bedsidetable"));
-                GameObject asset = localAssetBundle.LoadAsset<GameObject>("bedsidetable");
+                AssetBundle localAssetBundle = AssetBundle.LoadFromFile(Path.Combine(Application.streamingAssetsPath, "table"));
+                GameObject asset = localAssetBundle.LoadAsset<GameObject>("Table");
+                obj = Instantiate(asset) as GameObject;
+                obj.transform.SetParent(parentObj.transform, false);
+                localAssetBundle.Unload(false);
+            }
+        }
+
+        else if (Input.GetKeyDown(KeyCode.E))
+        {
+            if (obj != null)
+            {
+                Destroy(obj);
+                AssetBundle localAssetBundle = AssetBundle.LoadFromFile(Path.Combine(Application.streamingAssetsPath, "cabinet"));
+                GameObject asset = localAssetBundle.LoadAsset<GameObject>("ShoesCabinet");
                 obj = Instantiate(asset) as GameObject;
                 obj.transform.SetParent(parentObj.transform, false);
                 localAssetBundle.Unload(false);

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cabinet
+  m_EditorClassIdentifier: 
+  m_GroupName: cabinet
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 547ab7b76fc154d4581e2eb001208ac7
+  m_SerializeEntries:
+  - m_GUID: 483541631b1f942b78dc679bebd68d22
+    m_Address: Assets/BundledAssets/ShoesCabinet.dae
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <BundleFileId>k__BackingField: 
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 0
+    m_IsScene: 0
+    m_cachedAssetPath: Assets/BundledAssets/ShoesCabinet.dae
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d4896e60001fc4c5b89c33df1ced55ed, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c5e6f652b64f54d2799febb0acb54e13, type: 2}
+    - {fileID: 11400000, guid: b70903a4646474f4c8d16b7d24ef4052, type: 2}
