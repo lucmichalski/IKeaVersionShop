@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3447336229
+CRC: 3305896882
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -22,4 +22,13 @@ AssetBundleManifest:
       Dependencies: {}
     Info_6:
       Name: table
+      Dependencies: {}
+    Info_7:
+      Name: tablemorning
+      Dependencies: {}
+    Info_8:
+      Name: victoriansofa
+      Dependencies: {}
+    Info_9:
+      Name: doublesofa
       Dependencies: {}
