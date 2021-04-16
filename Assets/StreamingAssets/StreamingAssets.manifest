@@ -1,34 +1,34 @@
 ManifestFileVersion: 0
-CRC: 3305896882
+CRC: 798290312
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: chair
-      Dependencies: {}
-    Info_1:
-      Name: furniture
-      Dependencies: {}
-    Info_2:
-      Name: plant
-      Dependencies: {}
-    Info_3:
-      Name: sofa
-      Dependencies: {}
-    Info_4:
-      Name: cabinet
-      Dependencies: {}
-    Info_5:
       Name: bedsidetable
       Dependencies: {}
-    Info_6:
+    Info_1:
       Name: table
       Dependencies: {}
+    Info_2:
+      Name: doublesofa
+      Dependencies: {}
+    Info_3:
+      Name: chair.1
+      Dependencies: {}
+    Info_4:
+      Name: furniture.2
+      Dependencies: {}
+    Info_5:
+      Name: plant.3
+      Dependencies: {}
+    Info_6:
+      Name: cabinet.4
+      Dependencies: {}
     Info_7:
-      Name: tablemorning
+      Name: sofa.6
       Dependencies: {}
     Info_8:
-      Name: victoriansofa
+      Name: tablemorning.7
       Dependencies: {}
     Info_9:
-      Name: doublesofa
+      Name: victoriansofa.8
       Dependencies: {}

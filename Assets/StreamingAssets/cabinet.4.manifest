@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2538762315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb576d1d3022a16e007bc2a9636766c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4e8ee48ce42b388ac711bd4065b8905
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/ShoesCabinet.dae
+Dependencies: []

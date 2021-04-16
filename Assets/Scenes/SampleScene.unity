@@ -705,6 +705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obj: {fileID: 1156910743}
   parentObj: {fileID: 1084900992}
+  pickNumber: 0
 --- !u!114 &1156910746
 MonoBehaviour:
   m_ObjectHideFlags: 0
